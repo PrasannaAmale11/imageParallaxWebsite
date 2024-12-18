@@ -20,6 +20,7 @@ function App() {
   }}>
       <div className="app">
         <section className="hero">
+          <h1 className="logo">YourBrand</h1>
           <div className="img">
             <ParallaxImage src={portrait8} alt="portrait1" />
           </div>
